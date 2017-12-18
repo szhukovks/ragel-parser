@@ -241,7 +241,7 @@ Ragel напрямую не поддерживает возможность оп
  
 
 
-Демо-проект можно взять по [ссылке](https://github.com/jbt/markdown-editor) на GitHub. 
+Демо-проект можно взять по [ссылке](https://github.com/szhukovks/ragel-parser.git) на GitHub. 
 
 ---
 
