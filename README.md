@@ -237,7 +237,7 @@ Ragel напрямую не поддерживает возможность оп
 >dot -Tpng -o main.png main.dot
 ```
 Анализируя сложность графа переходов можно судить об общей эффективности реализованного парсера.
-[Пример графа](https://github.com/jbt/markdown-editor)
+![Пример графа](https://raw.githubusercontent.com/szhukovks/ragel-parser/master/misc/main.png)
  
 
 
